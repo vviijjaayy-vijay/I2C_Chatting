@@ -23,7 +23,7 @@
 
   1. `/login <address>`
      * changes the chatting channel to `<address>`
-     * after execution, it’ll reshow the initialize message as shown at ##Features
+     * after execution, it’ll reshow the initialize message as shown at [Features](#features)
   2. `/resend [number]` or `/r [number]`
 	 * sends out previous message again `[number]` times
      * ***Must be used at your own risk***
