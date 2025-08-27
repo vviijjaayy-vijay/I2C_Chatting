@@ -2,11 +2,13 @@
 
   This is an Arduino program that allows chatting between multiple Arduino devices. This program communicates through the I2C protocol, using pins `SCL` and `SDA`, the pins you find on the corner of your board right next to an usb port.
 
+&nbsp;
 
 ## How to run this program?
 
   It’s simple. Download the files, upload it to your Arduino via Arduino IDE *(or other IDEs you have for Arduino programming)*, and you’re good to go!
 
+&nbsp;
 
 ## Features
 
@@ -20,6 +22,7 @@
 ```
   After you see this message, you’re now ready to chat! Type whatever into the serial input, and it’ll broadcast through the entire I2C network.
 
+&nbsp;
 
 ### commands
   Here are some commands you can use over the chat.
