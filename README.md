@@ -22,6 +22,10 @@
 ```
   After you see this message, you’re now ready to chat! Type whatever into the serial input, and it’ll broadcast through the entire I2C network.
 
+  There will be some tags assigned to each message. Here’s an example of one:
+  `[R#64] 3723ms > ...`
+  Each tag shows whether the message has been sent or received. If the letter before the hashtag is an `R`, then the message is a message that has been received. If it’s an `S`, that message has been sent. The numbers next to the tag is the timestamp, where it’s measured as the time between the startup of the device and message receive/send as milliseconds.
+
 &nbsp;
 
 ### Commands
