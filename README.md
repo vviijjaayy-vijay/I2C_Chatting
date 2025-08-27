@@ -24,7 +24,7 @@
 
 &nbsp;
 
-### commands
+### Commands
   Here are some commands you can use over the chat.
 
   1. `/login <address>`
